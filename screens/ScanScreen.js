@@ -53,7 +53,7 @@ export default class BookTransactionScreen extends React.Component {
           <Image
             style = {styles.imageIcon}
             sourc = {{
-             uri = './assests/scanner.jpg',
+             uri : './assests/scanner.jpg',
             }}
           />
 
